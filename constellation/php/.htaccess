@@ -1,0 +1,6 @@
+ErrorDocument 400 /maquettes/Constellation/html/_errors/400.php
+ErrorDocument 401 /maquettes/Constellation/html/_errors/401.php
+ErrorDocument 403 /maquettes/Constellation/html/_errors/403.php
+ErrorDocument 404 /maquettes/Constellation/html/_errors/404.php
+ErrorDocument 500 /maquettes/Constellation/html/_errors/500.php
+ErrorDocument 503 /maquettes/Constellation/html/_errors/503.php
